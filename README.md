@@ -1,3 +1,10 @@
+
+
+
+![technology-monitor-alpha-coders-binary-wallpaper-preview](https://github.com/user-attachments/assets/7b6e9141-70ff-4504-add3-d53ad341cc07)
+
+
+
 <h1 align="center">Hi 👋, I'm Apoorva</h1>
 <h3 align="center">🎓 Final-year AIML student | 💻 Backend Developer | ☁️ Cloud Enthusiast | 📊 Data Visualizer</h3>
 
