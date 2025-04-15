@@ -1,7 +1,9 @@
 
 
 
-<h0 align="center">technology-monitor-alpha-coders-binary-wallpaper-preview](https://github.com/user-attachments/assets/7b6e9141-70ff-4504-add3-d53ad341cc07) </h0>
+<p><a href=![technology-monitor-alpha-coders-binary-wallpaper-preview](https://github.com/user-attachments/assets/ba4be3e2-f3c7-4f76-a03b-6d8ea413373c)>
+</p>
+
 
 
 
