@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://your-image-host.com/technology-monitor.jpg" alt="Tech Banner" width="100%" />
+  <img src="technology-monitor-alpha-coders-binary-wallpaper-preview.jpg" />
 </p>
 
 
