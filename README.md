@@ -1,7 +1,10 @@
 
 
+<p align="center">
+  <img src="https://your-image-host.com/technology-monitor.jpg" alt="Tech Banner" width="100%" />
+</p>
 
-<p><a href="https://github.com/user-attachments/assets/ba4be3e2-f3c7-4f76-a03b-6d8ea413373c"><image align ="center"></image></a></p>
+
 
 
 
